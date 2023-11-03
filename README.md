@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniel Macias</h1>
 <h3 align="center">Java Backend Jr. from México</h3>
 
-- 🌱 I’m currently learning **Javascript and React**
+- I´m currently learning frontend technologies.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MaciasDaniel](https://github.com/MaciasDaniel)
 
 - 📫 How to reach me **ing.danielmac@gmail.com**
 
-- 📄 Know about my experiences [I´ve done some projects on my own which have helped me improve my skills and know how to face new challenges]
+- 📄 Experience: I´ve done some projects on my own which have helped me improve my skills and know how to face new challenges.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
