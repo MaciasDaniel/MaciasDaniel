@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo tecnologías en la nube **AWS**
 
-- 👨‍💻 Proyectos [https://github.com/MaciasDaniel/Portfolio](https://github.com/MaciasDaniel/Portfolio)
+- 👨‍💻 Proyectos [https://github.com/MaciasDaniel?tab=repositories](https://github.com/MaciasDaniel/Portfolio)
 
 - 📫 Contáctame **ing.danielmac@gmail.com**
 
