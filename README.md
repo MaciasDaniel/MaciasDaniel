@@ -7,7 +7,7 @@
 
 - 📫 Contáctame **ing.danielmac@gmail.com**
 
-- 📄 Experiencia [He realizado proyectos propios que me han ayudado a mejorar mis habilidades técnicas](He realizado proyectos propios que me han ayudado a mejorar mis habilidades técnicas)
+- 📄 Experiencia: He realizado proyectos propios que me han ayudado a mejorar mis habilidades técnicas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
