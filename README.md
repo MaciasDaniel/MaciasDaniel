@@ -5,8 +5,6 @@
 
 - 👨‍💻 Proyectos [https://github.com/MaciasDaniel?tab=repositories](https://github.com/MaciasDaniel/Portfolio)
 
-- 📫 Contáctame **https://www.linkedin.com/in/daniel-alejandro-macias**
-
 - 📄 Experiencia: He realizado proyectos propios que me han ayudado a mejorar mis habilidades técnicas
 
 <h3 align="left">Contáctame en LinkedIn:</h3>
