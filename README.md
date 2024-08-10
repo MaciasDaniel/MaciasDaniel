@@ -5,7 +5,7 @@
 
 - 📄 He realizado proyectos propios que me han ayudado a mejorar mis habilidades técnicas
 
-- 👨‍💻 Proyectos [https://github.com/MaciasDaniel?tab=repositories](https://github.com/MaciasDaniel/Portfolio)
+- 👨‍💻 Proyectos [https://github.com/MaciasDaniel?tab=repositories](https://github.com/MaciasDaniel?tab=repositories)
 
 <h3 align="left">Contáctame en LinkedIn:</h3>
 <p align="left">
