@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Daniel Macias</h1>
-<h3 align="center">Java FullStack Jr. Spring Boot | React.js</h3>
+<h3 align="center">Desarrollador FullStack Spring Boot | React.js</h3>
 
 - Actualmente estoy aprendiendo tecnologías en la nube **AWS**
 
