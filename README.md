@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Daniel Macias</h1>
 <h3 align="center">Desarrollador FullStack Spring Boot | React.js</h3>
 
-- Actualmente estoy aprendiendo tecnologías en la nube **AWS**
-
 - 📄 He realizado proyectos propios que me han ayudado a mejorar mis habilidades técnicas
 
 - 👨‍💻 Proyectos [https://github.com/MaciasDaniel?tab=repositories](https://github.com/MaciasDaniel?tab=repositories)
